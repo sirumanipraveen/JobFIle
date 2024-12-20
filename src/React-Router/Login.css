@@ -1,0 +1,86 @@
+.grid-container {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    background-color: #f8f9fa;
+    width: 100vw;
+    /* height: 100vh; */
+  
+   
+  
+  }
+  
+  .form-card {
+   /* height: 500px; */
+   width: 500px;
+
+    background-color:white; 
+    color: white;
+    padding: 2rem; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+  }
+  
+ 
+  
+  
+  .Agrement{
+    color: black;
+    padding: 10px;
+  }
+  .check-box-style{
+    color: black;
+    padding: 2px;
+  }
+ 
+  .Sign-style{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .con-first-second{
+    display: grid;
+    grid-template-columns:1fr 1fr ;
+    grid-gap: 1rem;
+  }
+
+  .Capitalize{
+    text-transform: capitalize;
+  }
+
+
+
+
+  .input-with-icon {
+    position: relative;
+  }
+  
+  
+  
+  .password-icon {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    cursor: pointer;
+    color: #6c757d; 
+    font-size: 1.2rem;
+    
+  }
+  .icon-size{
+    width: 15px;
+  }
+ 
+  
+.arrange-box-in-row{
+  display: grid;
+  grid-template-columns: 5fr 1fr;
+}
+.button-style{
+  width: 80px;
+  height: 30px;
+  align-items: center;
+  font-size: 13px;
+  
+}

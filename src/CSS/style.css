@@ -1,0 +1,18 @@
+.Active{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "caveate";
+}
+
+.unActive{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "caveate";
+    color: red;
+}
+
+@media  screen and (max-width :480) {
+    .unActive{
+        font-size: 100px;
+    }
+}

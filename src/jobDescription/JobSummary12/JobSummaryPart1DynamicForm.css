@@ -1,0 +1,34 @@
+.fontsize{
+  
+
+  text-align: start;
+  font-size: 14px;
+  line-height: 1.42857143;
+  padding: 4px 11px;
+}
+
+.buttonDelete{
+  margin: 0 .25rem;
+    width: 2rem;
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    font-size: var(--bs-body-font-size);
+    color: var(--bs-gray);
+    background-color: var(--bs-gray-200);
+    border-radius: 20%;
+ 
+  
+}
+.field-con{
+  font-size: 12px;
+  line-height:15px;
+  padding: 4px 11px;
+  /* height: 26px; */
+  margin-right: 10px;
+  border-radius: 5px;
+ 
+
+}

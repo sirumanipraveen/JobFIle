@@ -1,0 +1,79 @@
+.container-div{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position:relative;
+    overflow-y: scroll;
+    margin: 20px;
+    margin-bottom: 50px;
+    margin: 30px;
+    
+}
+.card-container{
+    border: 1px solid;
+    margin: 10px;
+    border-radius: 4px;
+   
+    width: 300px;
+
+  
+    
+}
+.buyButton{
+    margin-left: 10px;
+    background-color: darkgoldenrod;
+    margin: 20px;
+    }
+    .cartButton{
+        margin-left: 10px;
+        background-color:lightblue;
+        margin: 20px;
+
+    }
+    .title-image{
+        width: 100vw;
+        height: 400px;
+       
+    }
+.input-style{
+    margin-left: 20px;
+    height: 25px;
+    font-size: 15px;
+    width: 250px;
+    text-align: center;
+}
+
+.input-cart-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+.card-style{
+    font-size: 15px;
+    background-color: rgb(0, 255, 170);
+    border-radius: 10px;
+    height: 30px;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.con-margin{
+    margin-top: 70px;
+}
+.img{
+    width: 200px;
+    height:200px ;
+}
+
+.titleName{
+    font-size: 17px;
+    padding: 4px;
+    text-align: center;
+}
+
+.price-style{
+    text-align: center;
+    font-weight: bold;
+}

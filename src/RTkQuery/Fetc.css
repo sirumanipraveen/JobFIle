@@ -1,0 +1,39 @@
+
+.table-container {
+    width: 100%;
+    border-collapse: collapse;
+   
+  }
+  
+
+  thead th {
+    position: sticky;
+    top: 0;
+    background-color: #343a40; 
+    color: white;
+    padding: 6px; 
+    text-align: center;
+  }
+  
+.bg-container{
+    width: 97vw;
+    height: 80vh;
+}
+.col-container{
+    position: sticky;
+    overflow-y: auto;
+}
+  
+.bg-button{
+    display: flex;
+    width: 100vw;
+    justify-content: flex-end;
+   margin-right:80px;
+   margin-bottom: 20px;
+   border-radius: 10px;
+   
+   
+}
+.bg-radios{
+    border-radius: 10px;
+}

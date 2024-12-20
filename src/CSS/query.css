@@ -1,0 +1,29 @@
+.Heading{
+    font-size: 20px;
+    color: rgb(4, 110, 102);
+
+}
+
+/* @media only screen and (min-width:480px ){
+    .Heading{
+        color: black;
+        font-size: 10px;
+        font-family: "italic";
+        background-color: red;
+    }
+}
+@media only screen and (min-width:780px){
+    .Heading{
+        color: brown;
+        font-size:30px;
+        background-color: black;
+    }
+    
+} */
+
+
+@media (min-width:480px ) and (max-width:780px){
+    .Heading{
+        color:  yellow;
+    }
+}

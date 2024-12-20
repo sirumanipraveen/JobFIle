@@ -1,0 +1,29 @@
+.container{
+    border: 2px solid yellow;
+    display: grid;
+   
+    
+    grid-template-columns: 1fr 2fr 1fr; 
+    grid-template-rows: 1fr 1fr 1fr;
+    
+    column-gap: 10px;
+    row-gap: 5px; 
+    
+}
+    
+.item{
+    border:2px solid green;
+   width: 100px;
+   height: 100px; 
+   /* grid-row-start:2;
+   grid-column-end: 3; */
+}
+ /* .item-7{
+    grid-row-start: 1;
+    grid-column-end: 2;
+}
+     */
+/* .item-4{
+    grid-row: 2/4;
+    grid-column: 2/4;
+} */

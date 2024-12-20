@@ -1,0 +1,70 @@
+.main-container{
+    width: 97vw;
+    height: 100vh;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+
+   
+    
+    
+
+}
+.job-title-style{
+    
+    text-align: start;
+    font-size: 13px;
+    line-height: 1.42857143;
+    padding: 4px 11px;
+  
+}
+
+.fontsizes{
+    font-size: 14px;
+    border-radius: 3px;
+    border-color: rgb(221, 237, 251);
+}
+
+.Location-style{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+   
+
+}
+
+.bg-container{
+    background-color: rgb(214, 232, 248);
+    width: 100%;
+   
+}
+
+.prefferSkillCardStyle{
+    background-color: #ffffff;
+   margin-top: 13px;
+    border:1px solid;
+    border-radius: 5px;
+    border-color: rgb(108, 130, 150);
+    padding: 5px;
+}
+.container-form{
+    margin-left: 2px;
+}
+.main-con{
+  
+    border-radius: 4px;
+    border-color: rgb(225, 236, 247);
+    width: 100vw;
+    
+    
+}
+.fs-size{
+    font-size: 12px;
+}
+
+.style-days{
+    font-size: 12px;
+    position: absolute;
+    margin-top: 20px;
+}

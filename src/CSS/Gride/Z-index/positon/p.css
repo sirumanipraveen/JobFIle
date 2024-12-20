@@ -1,0 +1,31 @@
+.container{
+    border: 2px solid yellow;
+    width: 100vw;
+    height: 100000px;
+}
+
+.box{
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+/* .box-3{
+    position:absolute;
+    top: 30px;
+    left: 34px;
+} */
+/* .box-3{
+    position:relative;
+    top: 30px;
+    left: 34px;
+} */
+
+
+/* .box-3{
+    position:fixed;
+ 
+    left: 34px;
+    
+} */

@@ -1,0 +1,20 @@
+.img-style{
+    width: 200px;
+    height: 200px;
+    
+}
+.title-style{
+    font-size: 20px;
+
+}
+.container{
+    width: 250px;
+    height: 300px;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.priceStyle{
+    padding: 10px;
+}

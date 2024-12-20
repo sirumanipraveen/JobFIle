@@ -1,0 +1,39 @@
+.container-bg{
+    border: 1px solid;
+    font-size: 12px;
+    border-color: aliceblue;
+    margin-bottom: 6px;
+    
+}
+.Input-font-size{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #343a40;
+}
+.skills-list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; 
+    
+}
+.skill-item{
+    padding-left: 4px;
+    background-color: rgb(21, 204, 204);
+    border-radius: 4px;
+    margin-left: 20px;
+    color: white;
+}
+.job-title-style{
+    font-size: 14px;
+}
+.Input-font-size{
+    height: 26px;
+    font-size: 12px;
+}
+.button-size{
+    margin-right: 4px;
+    background-color: blue ;
+    border-radius: 5px;
+    height: 26px;
+    text-align: center;
+}

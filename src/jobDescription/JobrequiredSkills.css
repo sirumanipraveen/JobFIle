@@ -1,0 +1,42 @@
+.container-bg {
+    background-color: #ffffff;
+    margin-right: 20px;
+  }
+  
+  .job-title-style {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #343a40;
+  }
+  
+  .skills-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #ffffff;
+  }
+  
+  .skill-text {
+    font-size: 1rem;
+    color: hsl(220, 16%, 96%);
+   
+  }
+  
+  .delete-btn, .add-btn {
+    cursor: pointer;
+    font-size: 1.2rem;
+  }
+  .col-6 {
+    overflow: hidden;
+    word-wrap: break-word;
+  }
+  
+
+   .col-6 {
+    overflow-x: auto; /* Allows horizontal scrolling for large content */
+    word-break: break-word; /* Better for breaking long words */
+  }
+
+
+  
+ 
